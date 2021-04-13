@@ -1,0 +1,40 @@
+body {
+  font: arial;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  padding: 6px 0;
+}
+
+a:hover {
+ color: #76BA1B;
+}
+
+/*----Nav-*/
+nav {
+ border-bottom: 3px solid black;
+}
+
+.hvr-sweep-to-right::before {
+ height: 5px;
+ margin-top: 30px;
+}
+
+.navbar {
+  background-color: black;
+
+}
+
+li { 
+  color: black;
+}
+
+.center {
+  margin: auto;
+ }

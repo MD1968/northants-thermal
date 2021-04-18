@@ -180,8 +180,9 @@ li {
 @media (max-width: 480px) {
 
  #hero img {
-   width: 100%;
-   padding-left: 100px;
+   width: 280px;
+   height: 280px;
+   margin-left: auto;
    }
 
    #hero p {
@@ -194,14 +195,15 @@ li {
 /* Large Screens */
 @media only screen and (min-width : 1025px) {
   #hero img {
-    width: 50%;
+    width: 400px;
+    height: 400px;
     padding-left: 100px;
     padding-bottom: 20px;
     }
 
     #hero p {
       margin-left: 60px;
-      padding-bottom: 50px;
+      padding-bottom: 80px;
 
     }
  }
